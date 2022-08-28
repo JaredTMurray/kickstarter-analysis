@@ -12,7 +12,7 @@ In this analysis I cover all the exercises in Module 1, which covers Microsoft E
 #### This is an illustration of the line graph
 ![Line chart](https://github.com/JaredTMurray/kickstarter-analysis/blob/main/Line%20chart.png))
 ### This is the syntax for uploading a file
-[data-1-1-3-StarterBook](C:\Users\Jared\Documents\data-1-1-3-StarterBook.zip)
+[data-1-1-3-StarterBook](https://github.com/JaredTMurray/kickstarter-analysis/blob/main/data-1-1-3-StarterBook.zip)
 ### My findings
 Louise campaigns goals are high based on the pledges she received, also in May her most successful campaign was run and she incurred highest losses as well.
 ![Parent Category outcomes](https://github.com/JaredTMurray/kickstarter-analysis/blob/main/Parent%20Category%20outcomes.png)
