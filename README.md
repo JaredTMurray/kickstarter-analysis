@@ -15,4 +15,4 @@ In this analysis I cover all the exercises in Module 1, which covers Microsoft E
 [data-1-1-3-StarterBook](C:\Users\Jared\Documents\data-1-1-3-StarterBook.zip)
 ### My findings
 Louise campaigns goals are high based on the pledges she received, also in May her most successful campaign was run and she incurred highest losses as well.
-![Parent Category outcomes](C:\Users\Jared\Pictures\Parent Category outcomes.png)
+![Parent Category outcomes](https://github.com/JaredTMurray/kickstarter-analysis/blob/main/Parent%20Category%20outcomes.png)
